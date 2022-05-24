@@ -1,4 +1,4 @@
-# TO.DO App
+# SavePass App
 Projeto desenvolvido para conclusão do desafio do segundo capítulo do treinamento Ignite da [Rocketseat.](https://www.rocketseat.com.br/)
 
 ![Bower](https://img.shields.io/bower/l/boot)
